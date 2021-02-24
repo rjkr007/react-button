@@ -1,13 +1,15 @@
-import logo from './logo.svg';
+import React from 'react';
+import profileImage from './images/surfer.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <h1>My react App</h1>
+      <h2>Rajeev KUMAR</h2>
+        <img src={profileImage} alt="surfer"/>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Learn Surfing.
         </p>
         <a
           className="App-link"
@@ -17,8 +19,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
-    </div>
+         </div>
   );
 }
 
