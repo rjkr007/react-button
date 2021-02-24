@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,wBACF","file":"main.42d26f48.chunk.css","sourcesContent":["body {\n  background-color: rgb(250, 249, 248);\n}\n\n/* #sum {\n    margin-top: 5em;\n  margin-left: 45%;\n  width: 5%;\n  background-color: aquamarine;\n} */\n"]}
